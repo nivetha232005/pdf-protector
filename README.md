@@ -35,3 +35,5 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/441867d4-87f7-4244-8caa-bac3bed665e9" />
+
